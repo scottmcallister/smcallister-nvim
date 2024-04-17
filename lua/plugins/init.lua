@@ -55,6 +55,7 @@ return {
         "bash", "tsx", "svelte", "graphql",
         "dockerfile", "php", "scss", "less",
         "c_sharp", "ruby", "go", "dart",
+        "markdown", "haskell",
   		},
   	},
   },
