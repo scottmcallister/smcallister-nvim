@@ -38,7 +38,8 @@ return {
   	opts = {
   		ensure_installed = {
   			"lua-language-server", "stylua",
-  			"html-lsp", "css-lsp" , "prettier"
+  			"html-lsp", "css-lsp" , "prettier",
+        "pyright"
   		},
   	},
   },
@@ -52,10 +53,6 @@ return {
         "typescript", "json", "jsonc",
         "yaml", "toml", "python",
         "rust", "c", "cpp", "java",
-        "bash", "tsx", "svelte", "graphql",
-        "dockerfile", "php", "scss", "less",
-        "c_sharp", "ruby", "go", "dart",
-        "markdown", "haskell",
   		},
   	},
   },
